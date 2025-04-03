@@ -11,3 +11,11 @@
 ``` python
 string = "I love to code in python"
 ```
+##### Third step done.
+
+# Fourth step 
+- [x] Add headers
+- [x] Add an image
+- [x] Add a code example
+- [x] Make a task list
+- [ ] Merge your pull request
